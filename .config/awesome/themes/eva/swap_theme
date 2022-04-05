@@ -1,0 +1,5 @@
+#!/bin/sh
+cd $HOME/.config/awesome/themes/eva/
+cp wallpaper.jpg buf
+cp wallpaper.jpg.copy wallpaper.jpg
+cp buf wallpaper.jpg.copy
